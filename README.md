@@ -1,19 +1,20 @@
-# rapport
+# Rapport
+
+## Travail à faire 
+
+Utilisation de google pages pour la création du notre rapport
 
 
+## keyword
 
+- typesetting
+- print css
 
+# Exemple à tester
 
-
-## Convert markdown to google doc 
-
-- pandoc MyFile.md -f markdown -t odt -s -o MyFile.odt
-
-Convert markdown to DOCX using pandoc: pandoc MyFile.md -f markdown -t docx -s -o MyFile.docx
-Upload MyFile.docx into your Google Drive folder
-Double-click MyFile.docx in the web version of Drive
-Google Drive will open MyFile.docx in a new tab
-
-# Google add 
-
-https://workspace.google.com/marketplace/app/markdown_to_docs_gdocifymd/565786842056
+- https://github.com/michaelperrin/blog-css-book-demo
+  - https://www.michaelperrin.fr/blog/2019/11/printing-the-web-part-2-html-and-css-for-printing-books
+- https://github.com/cognitom/paper-css
+- https://vivliostyle.org/
+- https://github.com/kykungz/html-a4-paper
+  
